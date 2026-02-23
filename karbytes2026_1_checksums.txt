@@ -12,7 +12,7 @@ file_1: karbytes_23AndMe_Ancestry_Data-main.zip // SHA-256: 5ebb70778d901ec6630d
 
 file_2: reference_human_genome_fasta_hg38-main.zip // SHA-256: f8f0dee1f4317950bd48faebe3028eb0cad8b9d001b82b20b956e51703449d3e
 
-file_3: KARLINA_OBJECT_extension_pack_58-main_22february2026.zip // SHA-256: 3d52cb16fcc77127b3a1374c9b3a73dfc256e4c43cd14e8e1cfa6425427d22b3
+file_3: KARLINA_OBJECT_extension_pack_58-main_22february2026.zip // SHA-256: 4b30fcf1cfadb49e39155400e13b4bf76485d9729df32dfe3623ea0fa63730c1
 
 file_4: the_big_green_thing_2025-main.zip // SHA-256: 06d428dc8abb478c4116ddd9583723c870409f0e234cef777a14abe57ca2d7ab
 
